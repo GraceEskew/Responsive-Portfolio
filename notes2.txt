@@ -1,0 +1,36 @@
+In header: 
+<meta name="viewport" content="width=device-width, initial-scale-1">
+
+Use three @media screen tags, each with one of these max-widths: 980px, 768px and 640px.
+
+@media screen and (max-width: 768px) {
+body {} 
+}
+
+875 length lines up 
+
+.contentIndex
+set width to 85%
+set height to auto;
+margin-bottom: 50px;
+
+.wrappedContent
+set width to 53%
+padding-bottom: 1px;
+
+img
+set width to 120px;
+
+fixed position
+left/footer margin - 0
+
+img
+    width: 490px;
+    margin-left: 0;
+    margin-right: 42px;
+}
+.wrappercontent
+margin-left: 25px
+width: 91%
+
+text decoration: none
