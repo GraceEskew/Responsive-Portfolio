@@ -207,4 +207,129 @@ h6 {
     text-align: center;
 }
 
+@media screen and (max-width: 980px) {
+    body {
+        max-width: 980px;
+        width: 100%;
+        height: auto
+    }
+
+    h2.Name {
+        margin-left: 25px;
+    }
+
+    .links (
+        margin-right: 0;
+    )
+
+    .headerWrapper {
+        width: 100%
+    }
+
+    .contentIndex {
+        width: 66%;
+        height: auto;
+        margin-bottom: 50px;
+    }
+
+    .wrapperContent {
+        width: 65%;
+        margin-left: 25px;
+        margin-bottom: 200px;
+        padding-bottom: 1px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        max-width: 768px;
+        width: 100%;
+        height: auto;
+    }
+
+    h2.Name {
+        margin-left: 25px;
+    }
+
+    .links {
+        margin-right: 0;
+    }
+
+    .headerWrapper {
+        width: 100%
+    }
+
+    .wrapperContent {
+        margin-left: 25px;
+        margin-bottom: 200px;
+        width: 93%;
+    }
+
+    h2.title {
+        padding-top: 30px;
+        padding-bottom: 5px;
+    }
+
+    .contentIndex {
+        padding-left: 13px;
+    }
+
+    .contentContact {
+        max-width: 768px;
+        width: 91%;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    body {
+        max-width: 640px;
+        width: 100%
+    }
+
+    h2.Name {
+        position: fixed;
+        width: 100%;
+        margin-left: 0;
+    }
+
+    h2.title {
+        padding-top: 30px;
+        padding-bottom: 5px;
+    }
+
+    .headerWrapper {
+        width: 100%;
+        height: 125px;
+    }
+
+    .links {
+        float: left;
+        position: fixed;
+        height: 35px;
+        width: 40%;
+        margin-top: 63px;
+        margin-left: 100px;
+        margin-right: -150px;
+        padding-left: 600px;
+        padding-right: 275px;
+        background: #ffffff;
+    }
+
+    .wrapperContent {
+        margin-left: 25px;
+        margin-bottom: 200px;
+        margin-top: 150px;
+        width: 91%;
+    }
+
+    .contentIndex {
+        padding-left: 13px;
+    }
+
+    footer {
+        height: 25%
+    }
+
+}
+
 
