@@ -218,10 +218,9 @@ h6 {
         margin-left: 25px;
     }
 
-    .links (
+    .links {
         margin-right: 0;
-    )
-
+    }
     .headerWrapper {
         width: 100%
     }
