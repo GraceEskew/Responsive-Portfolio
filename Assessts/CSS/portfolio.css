@@ -198,9 +198,14 @@ h6 {
     text-align: center;
 }
 
+
+/*Note: Having an issue with enlarging the images. 
+Cannot update all through img tag, rows, or columns.
+Still investigating, but may not be able to fix by 
+deadline.*/
+
 @media screen and (max-width: 980px) {
     body {
-        background-color: red;
         max-width: 980px;
         width: 100%;
         height: auto
@@ -248,7 +253,6 @@ h6 {
 
 @media screen and (max-width: 768px) {
     body {
-        background-color: yellow;
         max-width: 768px;
         width: 100%;
         height: auto;
@@ -264,6 +268,10 @@ h6 {
 
     .headerWrapper {
         width: 100%
+    }
+
+    .border2 {
+        width: 105%;
     }
 
     .wrapperContent {
@@ -357,7 +365,6 @@ h6 {
     .border2 {
         width: 148%;
     }
-
 
     .contentIndex {
         margin-top: 60px;

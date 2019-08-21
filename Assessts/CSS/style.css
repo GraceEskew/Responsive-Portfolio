@@ -196,9 +196,9 @@ h6 {
         margin-left: 25px;
     }
 
-    .links (
+    .links {
         margin-right: 0;
-    )
+    }
 
     .headerWrapper {
         width: 100%
@@ -219,6 +219,10 @@ h6 {
 
     img {
         width: 40%
+    }
+
+    .contentIndex {
+        width: auto;
     }
 }
 
@@ -255,6 +259,7 @@ h6 {
     .contentIndex {
         padding-left: 13px;
     }
+    
 
     img {
         width: 50%;
@@ -262,6 +267,10 @@ h6 {
         margin-right: 0;
         margin-bottom: 20px;
         padding-right: 20px;
+    }
+
+    .contentIndex {
+        width: auto;
     }
 }
 
