@@ -1,10 +1,8 @@
-<<<<<<< HEAD
 html {
     height: 100%;
     width: 100%;
     margin: 0;
     padding: 0;
-
 }
 
 body {
@@ -16,13 +14,12 @@ body {
     flex-direction: column;
     overflow: auto;
     background-color: #dddddd; 
-    /*background-image: url(.\Assessts\Images\wheat.png);*/
-   }
+}
 
 .wrapperOverall{
  flex: 1 0 auto;
  min-height: 100%;
- padding-bottom: 52px;
+ margin-bottom: 52px;
 }
 
 .wrapperContent {
@@ -30,37 +27,12 @@ body {
  width: 100%;
  align-content: center;  
  margin-left: 150px;
-=======
-   html {
-       height: 100%;
-   }
-   
-   body {
-    /*max-height: 650px;*/
-    min-height: 100%;
-    width: 960px;
-    align-content: center;
-    padding-left: 150px;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-    overflow: hidden;
-    background-color: #dddddd; 
-    /*background-image: url(.\Assessts\Images\wheat.png);*/
-}
-
-.wrapperOverall{
-    flex: 1 0 auto;
-    min-height: 100%;
-    margin-bottom: -52px;
->>>>>>> 9fdd13e7c6ef59f30b957f7f1c9d0a970607397f
 }
 
 /*HEADER CODE START*/
 
 /*Wrapper for Header*/
 .headerWrapper {
-<<<<<<< HEAD
  /*width: 960px;*/
  width: auto;
  overflow: auto;
@@ -97,20 +69,18 @@ h2.Name {
  right: 0px;
  float: right;
  padding-bottom: -10px;
- word-spacing: 10px;
+ word-spacing: 8px;
  font-family: Arial, Helvetica, sans-serif; /*unable to find Fonts with Helvetica nue*/
 }
 
 a {
  color: #777777;
- text-decoration: none;
  font-family: Arial, Helvetica, sans-serif;
 }
 
 
 a:hover {
- color: #777777;
- text-decoration: none;
+ color: darkslategrey;
  font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -128,89 +98,18 @@ a:active {
 a:visited {
  color:darkblue;
  font-family: Arial, Helvetica, sans-serif;
-=======
-    overflow: auto;
-    text-align: auto;
-    position: relative;
-    background-color: #ffffff;
-}
-
-header {
-    float: left;
-    background-color: #4aaaa5;
-}
-
-h2.Name {
-    position: relative;
-    height: 70px;
-    line-height: 70px;
-    float: left;
-    text-align: center;
-    padding-left: 18px;
-    padding-right: 20px;
-    margin-bottom: 0;
-    margin-top: 0;
-    color: white;
-    background-color: #4aaaa5;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-.links {
-  
-    font-size: 14px;
-    position: absolute;
-    top: 25px;
-    right: 5px;
-    float: right;
-    padding-bottom: -10px;
-    word-spacing: 8px;
-    font-family: Arial, Helvetica, sans-serif; /*unable to find Fonts with Helvetica nue*/
-}
-
-a {
-    color: #777777;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-a:hover {
-    color: darkslategrey;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-a:focus {
-    color: #ffffff;
-    background-color: #4aaaa5;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-a:active {
-    color: #4aaaa5;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-a:visited {
-    color:darkblue;
-    font-family: Arial, Helvetica, sans-serif;
->>>>>>> 9fdd13e7c6ef59f30b957f7f1c9d0a970607397f
 }
 
 
 .border1{
-<<<<<<< HEAD
  background-color: #cccccc;
  width: 100%;
  height: 2px;
-=======
-    background-color: #cccccc;
-    width: 100%;
-    height: 2px;
->>>>>>> 9fdd13e7c6ef59f30b957f7f1c9d0a970607397f
 }
 /*END HEADER CONTENT*/
 
 
 .border2{
-<<<<<<< HEAD
  background-color: #dddddd;
  width: 104%;
  height: 2px;
@@ -227,50 +126,22 @@ h2.Title {
  margin-bottom: 6px;
  padding-left: 8px;
  width: 240px;
- color: teal;
+ color: #4aaaa5;
  font-family: Georgia, 'Times New Roman', Times, serif;
-=======
-    background-color: #dddddd;
-    width: 95.8%;
-    height: 2px;
-    margin-left: 17px;
-    text-align: center;
-    display: inline-block;
-}
-
-h2.Title {  
-    position: relative;
-    text-align: center;
-    padding-top: 23px;
-    margin-left: -50px;
-    margin-bottom: 6px;
-    padding-left: 8px;
-    width: 240px;
-    color: teal;
-    font-family: Georgia, 'Times New Roman', Times, serif;
->>>>>>> 9fdd13e7c6ef59f30b957f7f1c9d0a970607397f
 }
 
 /* IMAGE LINING */
 img {
-<<<<<<< HEAD
  height: auto;
  float: left;
  padding-top: 20px;
  padding-left: 16px;
  margin: 0 20px 20px 0;
-=======
-    float: left;
-    padding-top: 20px;
-    padding-left: 16px;
-    margin: 0 20px 20px 0;
->>>>>>> 9fdd13e7c6ef59f30b957f7f1c9d0a970607397f
 }
 
 
 /*TEXT LINING*/
 p {
-<<<<<<< HEAD
  width: 103.5%;
  font-size: 14px;
  text-align: justify;
@@ -297,39 +168,11 @@ p {
  width: 100%;
  height: 8px;
  background-color: #4aaaa5;
-=======
-    
-    font-size: 14.5px;
-    text-align: justify;
-    text-indent: 1em;
-    line-height: 1.80em;
-    padding-right: 20px;
-    padding-left: 20px;
-    color: #777777;
-    font-family: Arial, Helvetica, sans-serif
-}
-
-.contentIndex {
-    margin-top: 34px;
-    margin-bottom: -15px;
-    height: 450px;
-}
-
-.wrapperContent {   
-    background-color: #ffffff;
-}
-
-.border3 {
-    width: 100%;
-    height: 8px;
-    background-color: #4aaaa5;
->>>>>>> 9fdd13e7c6ef59f30b957f7f1c9d0a970607397f
 }
 
 
 footer {
-<<<<<<< HEAD
- margin-bottom: 0px;    
+ margin-bottom: 0px;
  margin-top: auto;
  flex-shrink: 0;
  height: 52px;
@@ -344,29 +187,27 @@ h6 {
 
 @media screen and (max-width: 980px) {
     body {
-        background: green;
         max-width: 980px;
         width: 100%;
-        height: auto;
+        height: auto
     }
 
     h2.Name {
         margin-left: 25px;
     }
 
-    .links {
-        right-margin: 0;
-        width:25%
-    }
-    
+    .links (
+        margin-right: 0;
+    )
+
     .headerWrapper {
-        width: 100%;
+        width: 100%
     }
 
     .contentIndex {
         width: 66%;
         height: auto;
-        margin-bottom:50px;
+        margin-bottom: 50px;
     }
 
     .wrapperContent {
@@ -374,18 +215,15 @@ h6 {
         margin-left: 25px;
         margin-bottom: 200px;
         padding-bottom: 1px;
-    
     }
 
     img {
-        width: 40%;
+        width: 40%
     }
-
 }
 
 @media screen and (max-width: 768px) {
     body {
-        background: yellow;
         max-width: 768px;
         width: 100%;
         height: auto;
@@ -393,21 +231,20 @@ h6 {
 
     h2.Name {
         margin-left: 25px;
-
     }
 
     .links {
-        right-margin: 0;
+        margin-right: 0;
     }
-    
+
     .headerWrapper {
-        width: 100%;
+        width: 100%
     }
 
     .wrapperContent {
-        margin-left: 25px; 
+        margin-left: 25px;
         margin-bottom: 200px;
-        width: 93%; 
+        width: 93%;
     }
 
     h2.title {
@@ -426,20 +263,18 @@ h6 {
         margin-bottom: 20px;
         padding-right: 20px;
     }
-
 }
 
 @media screen and (max-width: 640px) {
     body {
-        background: red;
-        max-width: 640;
-        width: 100%;
+        max-width: 640px;
+        width: 100%
     }
 
     h2.Name {
         position: fixed;
         width: 100%;
-        margin-left: 0;  
+        margin-left: 0;
     }
 
     h2.title {
@@ -449,11 +284,10 @@ h6 {
 
     .headerWrapper {
         width: 100%;
-        height: 125px; 
+        height: 125px;
     }
 
     .links {
-        
         float: left;
         position: fixed;
         height: 35px;
@@ -463,14 +297,13 @@ h6 {
         margin-right: -150px;
         padding-left: 600px;
         padding-right: 275px;
-        
-        background: #ffffff
+        background: #ffffff;
     }
 
     .wrapperContent {
-        margin-left: 25px; 
+        margin-left: 25px;
         margin-bottom: 200px;
-        width: 91%; 
+        width: 91%;
     }
 
     .contentIndex {
@@ -481,25 +314,8 @@ h6 {
         width: 100%;
         margin-left: 10px;
         margin-right: 42px;
-        margin-bottom: 20px
+        margin-bottom: 20px;
     }
-
-
-
-=======
-    margin-bottom: 0px;
-    margin-top: auto;
-    flex-shrink: 0;
-    height: 50px;
-    color: white;
-    background-color: #666666;
-}
-
-h6 {
-    
-    color: #b7b0a2;
-    text-align: center;
->>>>>>> 9fdd13e7c6ef59f30b957f7f1c9d0a970607397f
 }
 
 

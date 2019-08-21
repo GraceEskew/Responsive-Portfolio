@@ -3,7 +3,6 @@ html {
 }
 
 body {
-<<<<<<< HEAD
     /*max-height: 650px*/
     min-height: 100%;
     align-content: center;
@@ -13,19 +12,6 @@ body {
     overflow: auto;
     background-color: #dddddd; 
     /*background-image: url(.\Assessts\Images\wheat.png);*/
-=======
- /*max-height: 650px;*/
- min-height: 100%;
- width: 960px;
- align-content: center;
- padding-left: 150px;
- margin: 0;
- display: flex;
- flex-direction: column;
- overflow: auto;
- background-color: #dddddd; 
- /*background-image: url(.\Assessts\Images\wheat.png);*/
->>>>>>> 9fdd13e7c6ef59f30b957f7f1c9d0a970607397f
 }
 
 .wrapperOverall{
@@ -34,7 +20,6 @@ body {
     margin-bottom: -52px;
 }
 
-<<<<<<< HEAD
 .wrapperContent {
     max-width: 960px;
     width: 100%;
@@ -42,17 +27,12 @@ body {
     margin-left: 150px;
    }
 
-=======
->>>>>>> 9fdd13e7c6ef59f30b957f7f1c9d0a970607397f
 
 /*HEADER CODE START*/
 
 /*Wrapper for Header*/
 .wrapper {
-<<<<<<< HEAD
     width: auto;
-=======
->>>>>>> 9fdd13e7c6ef59f30b957f7f1c9d0a970607397f
     overflow: auto;
     text-align: auto;
     position: relative;
@@ -60,12 +40,7 @@ body {
 }
 
 .header {
-<<<<<<< HEAD
     width: 100%;
-=======
-    float: left;
-    background-color: #4aaaa5;
->>>>>>> 9fdd13e7c6ef59f30b957f7f1c9d0a970607397f
 }
 
 h2.Name {
@@ -76,32 +51,20 @@ h2.Name {
     text-align: center;
     padding-left: 18px;
     padding-right: 20px;
-<<<<<<< HEAD
     margin-left: 150px;
-=======
->>>>>>> 9fdd13e7c6ef59f30b957f7f1c9d0a970607397f
     margin-bottom: 0;
     margin-top: 0;
     color: white;
     background-color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
-<<<<<<< HEAD
    }
-=======
-}
->>>>>>> 9fdd13e7c6ef59f30b957f7f1c9d0a970607397f
 
 .links {
     font-size: 14px;
     position: absolute;
-<<<<<<< HEAD
     width: 26%;
     top: 25px;
     right: 0px;
-=======
-    top: 25px;
-    right: 5px;
->>>>>>> 9fdd13e7c6ef59f30b957f7f1c9d0a970607397f
     float: right;
     padding-bottom: -10px;
     word-spacing: 8px;
@@ -145,11 +108,7 @@ a:visited {
 
 .border2{
     background-color: #dddddd;
-<<<<<<< HEAD
     width: 104%;
-=======
-    width: 95.8%;
->>>>>>> 9fdd13e7c6ef59f30b957f7f1c9d0a970607397f
     height: 2px;
     margin-left: 17px;
     text-align: center;
@@ -157,25 +116,15 @@ a:visited {
 }
 
 h2.Title {  
-<<<<<<< HEAD
-=======
-    font-family: Georgia, 'Times New Roman', Times, serif;
->>>>>>> 9fdd13e7c6ef59f30b957f7f1c9d0a970607397f
     position: relative;
     text-align: center;
     padding-top: 23px;
     margin-left: -50px;
     margin-bottom: 6px;
-<<<<<<< HEAD
     padding-left: 8px;
     width: 240px;
     color: teal;
     font-family: Georgia, 'Times New Roman', Times, serif;
-=======
-    padding-left: 3px;
-    width: 240px;
-    color: teal;
->>>>>>> 9fdd13e7c6ef59f30b957f7f1c9d0a970607397f
 }
 
 /* IMAGE LINING */
@@ -220,12 +169,8 @@ img {
 .contentIndex {
     margin-top: 34px;
     margin-bottom: -15px;
-<<<<<<< HEAD
     margin-right: 65px;
     height: 450px;
-=======
-    height: 475px;
->>>>>>> 9fdd13e7c6ef59f30b957f7f1c9d0a970607397f
 }
 
 .wrapperContent {   
@@ -240,20 +185,12 @@ img {
 
 
 footer, .push {
-<<<<<<< HEAD
  margin-bottom: 0px;
  margin-top: auto;
  flex-shrink: 0;
  height: 52px;
  color: white;
  background-color: #666666;
-=======
-    margin-top: 110px;
-    height: 50px;
-    color: white;
-    background-color: #666666;
-    margin-bottom: 0;
->>>>>>> 9fdd13e7c6ef59f30b957f7f1c9d0a970607397f
 }
 
 h6 {
